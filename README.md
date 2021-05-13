@@ -13,4 +13,4 @@
   - 바뀔 More => 애초에 20개 정도의 영상 정보를 받아오고, More는 숨김 해제 처리만 할 예정
 
 - 영상에 대한 정보를 Local에 저장 => 저장하고 싶은 영상 목록 기능 생성
-  - vue router 기능, vuex persistedstate 기능을 활용할 생각
+  - vue router 기능, db에 저장
